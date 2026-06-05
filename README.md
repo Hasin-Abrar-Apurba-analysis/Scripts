@@ -231,5 +231,5 @@ group by cohort_yr, customer_status ;
 
 ## Technical Details
 - **Database:** PostgreSQL
-- **Analysis Tools:** PostgreSQL, DBeaver
+- **Analysis Tools:** PostgreSQL, PGadmin DBeaver
 - **Visualization:** Claude

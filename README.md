@@ -110,8 +110,8 @@ select
 	sum(total_net_revenue)/count(distinct customerkey) as customer_revenue
 from cohort_analysis 
 where orderdate = first_order_date 
-group by order_month, cohort_yr  
-order by order_month, cohort_yr;
+group by cohort_yr  
+order by cohort_yr;
 ```
 
  

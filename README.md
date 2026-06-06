@@ -73,7 +73,7 @@ order by
 
 **📊 Visualization:**
 
-![Customer Segmentation Analysis](/images/1_Customer_segment_analysis.png)
+![Customer Segmentation Analysis](1_Customer_segment_analysis.png)
 
 **🔑 Key Findings:**
 

@@ -202,8 +202,6 @@ group by cohort_yr, customer_status ;
 
 ## Strategic Recommendations
 
-## Strategic Recommendations
-
 > **Core Problem:** Declining revenue per customer + slowing acquisition = compounding
 > revenue risk. The following strategies address both sides.
 

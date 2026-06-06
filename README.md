@@ -137,6 +137,9 @@ order by cohort_yr;
 
 ## Analysis Approach
 
+- Identified customers at risk of churning
+- Analyzed last purchase patterns
+- Calculated customer-specific metrics
 
 ### Query: [3_Customer_retention_analysis.sql](/3_customer_retention_analysis.sql)
 
@@ -174,11 +177,6 @@ select
 from churned_customers 
 group by cohort_yr, customer_status ;
 ```
-
-
-- Identified customers at risk of churning
-- Analyzed last purchase patterns
-- Calculated customer-specific metrics
 
 
 **📊 Visualization:**

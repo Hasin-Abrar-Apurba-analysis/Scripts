@@ -118,7 +118,7 @@ order by order_month, cohort_yr;
 
 **📊 Visualization:**
 
-![Cohort Analysis](/images/2_cohort_analysis.png)
+![Cohort Analysis](2_Cohort_analysis.png)
 
 **🔑 Key Findings:**
 - Revenue per customer shows an alarming decreasing trend over time.
@@ -183,7 +183,7 @@ group by cohort_yr, customer_status ;
 
 **📊 Visualization:**
 
-![3_customer_retention_analysis.png](/3_customer_retention_analysis.png)
+![3_customer_retention_analysis.png](3_Customer_retention_analysis.png)
 
 **🔑 Key Findings:**
 
